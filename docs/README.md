@@ -37,7 +37,8 @@ This section of the index provides links to technical documentation for the proj
 | [External Data Sources](External%20Data%20Sources.md) | This section of the documentation provides details on the external data dependencies used by MyFDA. |
 | [Style Guidelines](Style%20Guidelines.md) | Presents the style guidelines that were adopted for the prototype project. |
 | [Coding Guidelines](Coding%20Guidelines.md) | This article presents coding guidelines for developers contributing to the project. |
-
+| [Install Guide](Install%20Guide.md) | This is a guide for building, deploying, and running the MyFDA prototype application. |
+| [Configuration Guide](Configuration%20Guide.md) | Details on configuring the MyFDA prototype in a production environment. |
 
 Additional Information
 ----------------------
