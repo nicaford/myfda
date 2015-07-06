@@ -79,7 +79,7 @@ Another type of on-demand testing that was performed was accessibility testing. 
 by all users, NIC took into consideration the standards of U.S. Section 508 and W3C such as the level of 
 contrast in our design, using label tags for form elements, and ensuring sure our code is clean. To help 
 achieve this, we used automated tools that allow us to run tests over the entire myFDA prototype website.
-For details on accessibility testing, please consult the UCD section:  [User-Centered Design/Accessibility Testing](User-Centered%20Design.md#Accessibility%20Testing).
+For details on accessibility testing, please consult the UCD section:  [User-Centered Design/Accessibility Testing](User-Centered%20Design.md#accessibility-testing).
 
 ###Security Testing
 
