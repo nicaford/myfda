@@ -42,7 +42,7 @@ blockage. Retros were highly valuable in quickly learning lessons around teamwor
 and how to help the team communicate efficiently. The retro notes were made available immediately on our 
 Confluence page and left on the whiteboard for the team to focus on how to apply the improvements.
 
-![The product owner and delivery manager using the Kanban board](Project%20Management/kanban.jpg)
+![The product owner and delivery manager using the Kanban board](Project%20Management/kanban.jpg)  
 *Image Caption:  The product owner and delivery manager using the Kanban board during a sprint planning meeting.*
 
 Sprint Schedule
@@ -68,7 +68,7 @@ Working under such a short sprint period is not the normal for team members, so 
 velocity was important to keeping pace with the rapid sprint schedule.  The image below shows our velocity 
 report for the prototype project.
 
-![The sprint-by-sprint velocity report for the project iterations.](Project%20Management/velocity_chart.PNG)
+![The sprint-by-sprint velocity report for the project iterations.](Project%20Management/velocity_chart.PNG)  
 *Image Caption:  The sprint-by-sprint velocity report for the project iterations.*
 
 Sprint Structure
@@ -135,27 +135,27 @@ Project Management Evidence
 
 The following artifacts/images were created/taken during the project and illustrate the agile process and tools that were used for managing the project.
 
-![The team executing a morning stand up](Project%20Management/morningstandup.jpg)
+![The team executing a morning stand up](Project%20Management/morningstandup.jpg)  
 *Image Caption:  The team executing a morning stand up with the delivery manager, product owner, and product manager front and center.*
 
-![The working code is demonstrated in an early demo session](Project%20Management/earlydemo.jpg)
+![The working code is demonstrated in an early demo session](Project%20Management/earlydemo.jpg)  
 *Image Caption:  The working code is demonstrated in an early demo session.  The UI is still being designed so at this point raw JSON is being shown instead of formatted search results.*
 
-![Retrospective notes](Project%20Management/retro1.jpg)
+![Retrospective notes](Project%20Management/retro1.jpg)  
 *Image Caption:  At the end of each sprint, a retrospective meeting was held to discuss and document what went well and what could be improved.*
 
-![A sprint planning meeting being conducted by the product owner and the delivery manager](Project%20Management/sprintplanning.jpg)
+![A sprint planning meeting being conducted by the product owner and the delivery manager](Project%20Management/sprintplanning.jpg)  
 *Image Caption:  A sprint planning meeting being conducted by the product owner and the delivery manager.  Planning meetings were kept short and focused and were followed up by a standup.*
 
-![White boards were used extensively to communicate agendas, blockers, questions, and other ad hoc documentation](Project%20Management/weekendagenda.jpg)
+![White boards were used extensively to communicate agendas, blockers, questions, and other ad hoc documentation](Project%20Management/weekendagenda.jpg)  
 *Image Caption:  White boards were used extensively to communicate agendas, blockers, questions, and other ad hoc documentation.  Using the whiteboards not only allowed for quick creation but also made the information more visible to the team.*
 
-![JIRA was used to plan and track work](Project%20Management/jirareport.PNG)
+![JIRA was used to plan and track work](Project%20Management/jirareport.PNG)  
 *Image Caption:  JIRA was used to plan and track work.  The report above shows how planned work progressed to completion throughout the 3 day weekend sprint.*
  
-![An excerpt from the project page in Confluence](Project%20Management/confluence.PNG)
+![An excerpt from the project page in Confluence](Project%20Management/confluence.PNG)  
 *Image Caption:  An excerpt from the project page in Confluence.  Confluence was used to capture knowledge gained during the project and as a collaborative means to produce project and technical documentation.*
  
-![An excerpt from HipChat](Project%20Management/hipchat1.PNG)
+![An excerpt from HipChat](Project%20Management/hipchat1.PNG)  
 *Image Caption:  An excerpt from HipChat, the central nervous system of the project, showing communications between the product manager and the delivery manager while team members awaited a demo.  This tool allowed for efficient team communication and maximized visibility of this communication to the team.*
  
