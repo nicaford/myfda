@@ -17,6 +17,7 @@ This section of the index provides links to general and approach documentation.
 | :---------------- | :-------------- |
 | [About MyFDA](About%20MyFDA.md)     | Information about the MyFDA concept application and its capabilities. |
 | [Project Team](Project%20Team.md)   | Provides information on how the team was assembled and how it was organized. |
+| [Project Management](Project%20Management.md) | Explains how the project was managed using an iterative, agile approach. |
 
 MyFDA Technical Information
 ---------------------------
