@@ -8,17 +8,18 @@ The second category is Technical Information, and includes documentation intende
 wishing to install or contribute to the project.  Finally, the Additional Documentation section
 contains documentation that does not fit into the other two categories.
 
-Project Information
--------------------
+MyFDA Project Information
+-------------------------
 
 This section of the index provides links to general and approach documentation.
 
-| Article			| Description |
-| :---------------- | :---------- |
-| [About MyFDA](About%20MyFDA.md) | Information about the MyFDA concept application and its capabilities. |
+| Article			| Description     |
+| :---------------- | :-------------- |
+| [About MyFDA](About%20MyFDA.md)     | Information about the MyFDA concept application and its capabilities. |
+| [Project Team](Project%20Team.md)   | Provides information on how the team was assembled and how it was organized. |
 
-Technical Information
----------------------
+MyFDA Technical Information
+---------------------------
 
 TODO
 

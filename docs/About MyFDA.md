@@ -1,3 +1,5 @@
+[Return to Documentation Index](README.md)
+
 About MyFDA
 ===========
 
@@ -52,7 +54,7 @@ MyFDA Prototype Features
 ------------------------
 
 As part of the ideation process, every feature's value to the user was carefully evaluated before being 
-added to a sprint.  The team invested time upfront to develop user personas and user stories that could be 
+added to a sprint.  The team invested time upfront to develop user personas and persona stories that could be 
 quickly referenced when immediate user outreach was not possible.  For more information about our 
 user-centered design practices please refer to the [User-Centered Design](User-Centered%20Design.md) article.
 The features below are grouped by the themes that drove the team's sprint planning.
@@ -89,7 +91,7 @@ for that drug and effect.  Expanding the result would present the effect details
 details page.
 * **MyMeds Quick Pick** - Allow users to quickly add common over-the-counter drugs to their MyMeds without leaving the MyMeds page.  MyFDA would track the most commonly added drugs and populate a list of the top twenty that could be added with a single click.
 * **Drug Allergies** - Allow users to add drugs to an allergy list.  MyFDA would use this list to later warn the user if they try to add a drug from the same category.  
-* ** Multilingual Support** - Support languages other than English.  Medical terminology would not be affected 
+* **Multilingual Support** - Support languages other than English.  Medical terminology would not be affected 
 but instructions, headings, and other page content would be presented in the desired language.
 * **Multiple MyMeds List** - Allow users to add MyMeds lists for others they care for.  MyFDA would offer the 
 same features but could be put in the context of different people.
