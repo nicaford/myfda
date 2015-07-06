@@ -30,7 +30,7 @@ Prototype Architecture
 
 The diagram below shows the summary high-level architecture of the system.
 
-![High-Level Architecture Diagram](Software%20Development/High_Level_Software_Architecture.png)
+![High-Level Architecture Diagram](Software%20Development/High_Level_Software_Architecture.png)  
 *Image Caption:  The high-level architecture for MyFDA.*
  
 The web application itself has been implemented as a single-page application, using Ember.js as the 
