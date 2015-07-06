@@ -34,7 +34,7 @@ potential to inform users about potential adverse effects and important safety r
 provide true value to users, this vast data set should be related to their needs and presented in an 
 easily consumable, meaningful format.
 
-While the OpenFDA data is valuable to the user, inconsistencies in the the data presented challenges in 
+While the OpenFDA data is valuable to the user, inconsistencies in the data presented challenges in 
 identifying a particular drug to retrieve the most relevant information.  Correlating this data to 
 valuable information from other providers can be difficult and time consuming for users.  Thus, providing 
 a single trusted and easily-consumed method to access such information would be of huge value to the user.
