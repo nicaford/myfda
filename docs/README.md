@@ -1,12 +1,11 @@
 MyFDA Project Documentation
 ===========================
 
-This is an index of the project documentation for the MyFDA prototype.  A markdown wiki format has been
-used for all documentation.  Project documentation is organized into three categories.  Project
-Information is the first category and includes information on the approach used for the project.
-The second category is Technical Information, and includes documentation intended for developers
-wishing to install or contribute to the project.  Finally, the Additional Documentation section
-contains documentation that does not fit into the other two categories.
+This is an index of the project documentation for the MyFDA prototype project.  A markdown wiki format has been
+used for all documentation.  Project documentation is organized into two categories.  Project
+Information is the first category and includes general information and information on the approach
+used for the project.  The second category of documentation is Technical Information, and includes
+documentation intended for developers wishing to install or contribute to the project.
 
 Project Information
 -------------------
@@ -23,6 +22,7 @@ This section of the index provides links to general and approach documentation.
 | DevOps (skipped) | Describes the DevOps techniques applied to provide continuous integration, delivery, deployment, and monitoring. |
 | [Quality Assurance](Quality%20Assurance.md) | Describes the quality and testing processes associated with the prototype project. |
 | Security (Skipped) | Explains how security was applied to the agile project and details the security techniques and tools used for the project and supporting hosting environment. |
+| [Budget](Budget.md) | Summary of the budgeting process for the the project.
 | [Licensing](Licensing.md) | Explains the licensing for the MyFDA prototype and licensing associated with dependencies. |
 
 Technical Information
@@ -40,7 +40,7 @@ This section of the index provides links to technical documentation for the proj
 | [Install Guide](Install%20Guide.md) | This is a guide for building, deploying, and running the MyFDA prototype application. |
 | [Configuration Guide](Configuration%20Guide.md) | Details on configuring the MyFDA prototype in a production environment. |
 
-Additional Information
-----------------------
+NIC put together a great team for the prototype development project.  As a final piece of documentation we
+have included some of the more humorous photos taken by the team during the fast paced project.
 
-TODO
+[Project Photo Album](Photo%20Album.md)
