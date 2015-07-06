@@ -35,6 +35,8 @@ This section of the index provides links to technical documentation for the proj
 | [Technology Registry](Technology%20Registry.md) | A comprehensive list of the technologies used to create the MyFDA prototype application. |
 | API Documentation (skipped) | This section documents the various API endpoints created for the prototype and their capabilities. |
 | [External Data Sources](External%20Data%20Sources.md) | This section of the documentation provides details on the external data dependencies used by MyFDA. |
+| [Style Guidelines](Style%20Guidelines.md) | Presents the style guidelines that were adopted for the prototype project. |
+| [Coding Guidelines](Coding%20Guidelines.md) | This article presents coding guidelines for developers contributing to the project. |
 
 
 Additional Information
