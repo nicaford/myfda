@@ -44,7 +44,9 @@ answer the following about potential users.
 * How do they think of the information?
 * Where, when, and how might they use it?
 
-A summary of the research results on the user has been documented as its own article:  [User Research](User-Centered%20Design/User%20Research.md)
+A summary of the research results on the user has been documented as its own article:
+
+[User Research](User-Centered%20Design/User%20Research.md)
 
 User Personas and Role Playing
 ------------------------------
@@ -119,7 +121,7 @@ testers.  A link to the results of this survey is below.
 The questions of the branding and interest survey centered around the name for the service and other critical terminology.  
 Additionally, questions were asked to better understand the interest level of users in the service.
 
-[Branding and Interest Survey Results](User-Centered%20Design/User%Survey%1.pdf)
+[Branding and Interest Survey Results](User-Centered%20Design/User%20Survey%201.pdf)
  
 Heuristic Review
 ----------------
@@ -130,7 +132,9 @@ critical decisions and usability options based on experience, known best practic
 principles.  These reviews provided wider perspective to the UCD team as they considered usability testing 
 feedback and formed UX improvement strategies.
 
-The findings of these reviews are presented in their own section:  [Heuristic Review Summary](User-Centered%20Design/Heuristic%20Review%20Summary.md).
+The findings of these reviews are presented in their own section:
+
+[Heuristic Review Summary](User-Centered%20Design/Heuristic%20Review%20Summary.md).
 
 Accessibility Testing
 ---------------------
@@ -199,8 +203,7 @@ design and development iterations and user-centered activities were completed.
 
 Before design could begin in earnest, the vision for the prototype was captured from the Product Owner and 
 Product Manager.  First, a mind map was constructed for potential features.  Using the persona stories 
-developed prior to the product planning session, the team collaboratively defined the epics and stories.  
-In turn, these epics and stories were put into JIRA and served as the basis for work.
+developed prior to the product planning session, the team collaboratively defined the epics and stories. In turn, these epics and stories were put into JIRA and served as the basis for work.
 
 ![Mind map](User-Centered%20Design/mindmap.jpg)  
 *Image Caption:  This mind map was drawn during the initial product visioning and planning session and shows the high-level feature concepts and their relations.*
@@ -220,8 +223,7 @@ After usability testing was conducted on the wireframes, the wireframes were mod
 
 [Final Wireframes](User-Centered%20Design/Final_Wireframes.pdf)
 
-Dashboard Design Evolution
---------------------------
+###Dashboard Design Evolution
 
 The screen captures below shows how the UI for the user dashboard evolved during the project.
 
@@ -237,8 +239,7 @@ The screen captures below shows how the UI for the user dashboard evolved during
 ![Screenshot](User-Centered%20Design/dashboard-final.png)  
 *Image Caption:  This screen capture shows the final design for the dashboard.  This final design/develop iterations introduced improvements based on heuristic review and usability testing of the release candidate software.*
 
-Drug Details Design Evolution
------------------------------
+###Drug Details Design Evolution
 
 MyFDA provides the ability to view recall, adverse event, and drug interaction information for medications.  These features of the prototype began as simple presentations and evolved into interactive visualizations.  Below is shown the evolution of the "Adverse Effects" portion of the drug details feature.
 
