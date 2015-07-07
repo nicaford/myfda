@@ -10,7 +10,7 @@ variety of different open source licensing schemes.
 Apache 2.0
 ----------
 
-Copyright 2015 NIC Federal, LLC (former name NIC Technologies, LLC)
+Copyright 2015 NIC Federal, LLC (d/b/a NIC Technologies, LLC)
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
