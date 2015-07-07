@@ -99,7 +99,7 @@ prototype.  You can access a summary of the results using the link below.
 The second round of small group usability testing was performed on the working release candidate 
 software.  You can access of summary of the results using the link below.
 
-LINK TO UPDATED PDF WHEN JASON SENDS IT
+[Second Round Usability Testing Results](User-Centered%20Design/MyFDA_UsabilityTestingResults.pdf)
 
 Large Group Surveying
 ---------------------

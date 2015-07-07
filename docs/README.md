@@ -21,7 +21,7 @@ This section of the index provides links to general and approach documentation.
 | [Software Development](Software%20Development.md) | Documents the architecture for the MyFDA prototype and presents the technologies used at the client and server layers of the application. |
 | DevOps (skipped) | Describes the DevOps techniques applied to provide continuous integration, delivery, deployment, and monitoring. |
 | [Quality Assurance](Quality%20Assurance.md) | Describes the quality and testing processes associated with the prototype project. |
-| Security (Skipped) | Explains how security was applied to the agile project and details the security techniques and tools used for the project and supporting hosting environment. |
+| [Security](Security.md) | Explains how security was applied to the agile project and details the security techniques and tools used for the project and supporting hosting environment. |
 | [Budget](Budget.md) | Summary of the budgeting process for the the project.
 | [Licensing](Licensing.md) | Explains the licensing for the MyFDA prototype and licensing associated with dependencies. |
 
