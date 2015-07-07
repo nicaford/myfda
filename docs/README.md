@@ -19,7 +19,7 @@ This section of the index provides links to general and approach documentation.
 | [Project Management](Project%20Management.md) | Explains how the project was managed using an iterative, agile approach. |
 | [User-Centered Design](User-Centered%20Design.md) | The user was considered at all iterations of the project.  Each project iteration attempted to learn more about the user and to gain their feedback on the application as it evolved through the project. |
 | [Software Development](Software%20Development.md) | Documents the architecture for the MyFDA prototype and presents the technologies used at the client and server layers of the application. |
-| DevOps (skipped) | Describes the DevOps techniques applied to provide continuous integration, delivery, deployment, and monitoring. |
+| [DevOps](DevOps.md) | Describes the DevOps techniques applied to provide continuous integration, delivery, deployment, and monitoring. |
 | [Quality Assurance](Quality%20Assurance.md) | Describes the quality and testing processes associated with the prototype project. |
 | [Security](Security.md) | Explains how security was applied to the agile project and details the security techniques and tools used for the project and supporting hosting environment. |
 | [Budget](Budget.md) | Summary of the budgeting process for the the project.

@@ -11,7 +11,7 @@ Integrated Project Security
 
 A strong security-focused design approach was taken from the inception of the project. A full-time 
 security engineer was embedded in the Agile team throughout the course of the project to ensure that 
-application security considerations were taken during each iteration of the build process. Development of 
+application security considerations were taken into account during each iteration of the development process. Development of 
 the comprehensive security strategy for the project was identified as a story in Sprint 0. The strategy 
 identified the secure technologies and tools for securing the software that are outlined in this section.
 
